@@ -1,1 +1,2 @@
-# matplotlib_Auxiliary_line
+# 輔助線
+Matplotlib的輔助線設定。
